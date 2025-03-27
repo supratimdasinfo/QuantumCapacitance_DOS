@@ -14,5 +14,5 @@ This repository contains a **Jupyter Notebook** that calculates the **Quantum Ca
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/QuantumCapacitance.git
+   git clone https://github.com/supratimdasinfo/QuantumCapacitance.git
    cd QuantumCapacitance
