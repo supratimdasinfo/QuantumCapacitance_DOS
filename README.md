@@ -9,7 +9,7 @@ This repository contains a **Jupyter Notebook** that calculates the **Quantum Ca
 
 ## 📁 Files
 - **Quantum_Capacitance.ipynb** → Main Jupyter Notebook for calculations.
-- **dos_data.txt** → Sample DOS input file.
+- **dos.txt** → Sample DOS input file.
 
 ## 🚀 How to Use
 1. Clone this repository:
