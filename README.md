@@ -2,16 +2,16 @@
 
 This repository contains a **Jupyter Notebook** that calculates the **Quantum Capacitance (QC)** based on Density of States (DOS) data.
 
-## 📌 Features
+## Features
 - Computes **Quantum Capacitance** from **DOS data**.
 - Uses **Fermi-Dirac statistics** and the **Thermal Spreading Function**.
 - Generates **Quantum Capacitance vs Applied Potential** plots.
 
-## 📁 Files
+## Files
 - **Quantum_Capacitance.ipynb** → Main Jupyter Notebook for calculations.
 - **dos.txt** → Sample DOS input file.
 
-## 🚀 How to Use
+## How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/supratimdasinfo/QuantumCapacitance.git
